@@ -1,0 +1,30 @@
+# binários e objetos
+*.o
+*.out
+a.out
+sparse_table
+bin/
+build/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*~ 
+
+# sistema
+.DS_Store
+
+# logs e temporários
+*.log
+./**/*.pdf
+
+algoritmo_denso
+algoritmo1
+algoritmo2
+gerador
+./env
+
+./**/__pycache__/*
+./**/*.zip
+./__pycache__
